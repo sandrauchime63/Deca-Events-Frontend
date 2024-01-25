@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#tickets tr:nth-child(even){background-color: #f6fef9;}
+
+#tickets tr:hover {background-color: #ebfcf1;}
